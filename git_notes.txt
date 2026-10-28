@@ -1,2 +1,5 @@
-Learning git
-Learning cybersecurity
+  My Git Learning Notes
+1. Git tracks changes in files.
+2. A commit records a snapshot of my work.
+3. GitHub hosts my repository online.
+4. One project, one repository.
